@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ayasuleimanliu.github.io/aya-s-oils",
+  "homepage": "https://ayasuleimanliu.github.io/aya",
   "eslintConfig": {
     "extends": [
       "react-app",
