@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aya-s-oils/static/css/main.d8120696.css",
+    "main.js": "/aya-s-oils/static/js/main.542d1b84.js",
+    "static/js/453.2c348a4b.chunk.js": "/aya-s-oils/static/js/453.2c348a4b.chunk.js",
+    "static/media/oil.jpeg": "/aya-s-oils/static/media/oil.370b57315bbcac24d1c8.jpeg",
+    "index.html": "/aya-s-oils/index.html",
+    "main.d8120696.css.map": "/aya-s-oils/static/css/main.d8120696.css.map",
+    "main.542d1b84.js.map": "/aya-s-oils/static/js/main.542d1b84.js.map",
+    "453.2c348a4b.chunk.js.map": "/aya-s-oils/static/js/453.2c348a4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8120696.css",
+    "static/js/main.542d1b84.js"
+  ]
+}
